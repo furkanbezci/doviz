@@ -1,0 +1,281 @@
+.container{
+  width: 1440px;
+  height: 500px;
+  padding: 31px 164px 79px;
+  background-color: #fff;}
+
+.Piyasalar {
+  width: 117px;
+  height: 34px;
+  margin: 0 76px 38px 1px;
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.21;
+  letter-spacing: normal;
+  color: var(--dark);
+}
+img.Group-7 {
+  width: 43px;
+  height: 30px;
+  /* margin: 42.8px 14px 38.2px 1px; */
+  object-fit: contain;
+}
+
+.USD {
+  width: 31px;
+  height: 20px;
+  margin: 42px 104px 0 14px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: var(--dark);
+}
+.JPY {
+  width: 29px;
+  height: 20px;
+  margin: 29px 106px 1px 14px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: var(--dark);
+}
+.DKK {
+  width: 31px;
+  height: 20px;
+  margin: 0 102px 0 12px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: var(--dark);
+}
+.EUR {
+  width: 30px;
+  height: 20px;
+  margin: 0 113px 0 12px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: var(--dark);
+}
+.GBP {
+  width: 32px;
+  height: 20px;
+  margin: 0 112px 1px 12px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: var(--dark);
+}
+.NOK {
+  width: 33px;
+  height: 20px;
+  margin: 0 111px 0 12px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: var(--dark);
+}
+
+.ALI {
+  width: 26px;
+  height: 14px;
+  margin: 42px 41px 6px 82px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #4f6477;
+}
+.SATI {
+  width: 33px;
+  height: 14px;
+  margin: 0 0 6px 82px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #4f6477;
+}
+.Amerikan-Dolar {
+  width: 86px;
+  height: 24px;
+  margin: 1px 46px 24px 13px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  color: var(--dark);
+}
+.Japon-Yeni {
+  width: 60px;
+  height: 24px;
+  margin: 1px 76px 24px 13px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  color: var(--dark);
+}
+.Avrupa-Para-Birimi {
+  width: 99px;
+  height: 24px;
+  margin: 1px 36px 0 12px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  color: var(--dark);
+}
+.Danimarka-Kronu {
+  width: 93px;
+  height: 24px;
+  margin: 1px 53px 0 12px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  color: var(--dark);
+}
+.ngiliz-Sterlini {
+  width: 72px;
+  height: 24px;
+  margin: 1px 57px 0 14px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  color: var(--dark);
+}
+.Norve-Kronu {
+  width: 73px;
+  height: 24px;
+  margin: 1px 72px 0 12px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  color: var(--dark);
+}
+
+span {
+  width: 50px;
+  height: 24px;
+  margin: 6px 41px 25px 58px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: right;
+  color: var(--dark);
+}
+.flex-align-center{
+  display: flex;
+  align-items: center;
+}
+.flex-justify-center{
+  display: flex;
+  justify-content: center;
+}
+.Rectangle {
+  width: 205px;
+  height: 180px;
+  margin: 28px 0 2px 78px;
+  padding: 19px 20px 26px;
+  background-color: rgb(27, 25, 25);
+  background-image: linear-gradient(to bottom 154deg, var(--dark) 32%, var(--blue-grey) 115%);
+}
+.Rectangle-6-Copy-5 {
+  width: 215px;
+  height: 48px;
+  margin: 0 0 19px;
+  padding: 1px 18px 0 15px;
+  background-color: #fff;
+}.Path {
+  width: 465px;
+  height: 1px;
+  margin: 24px 75px 29px 1px;
+  opacity: 0.3;
+  background-color: #bac9d5;
+}img.ButtonsChange {
+  width: 48px;
+  height: 48px;
+  margin: 19px 83px 19px 84px;
+  object-fit: contain;
+}.Rectangle-6-Copy-5 {
+  width: 215px;
+  height: 48px;
+  margin: 0 0 19px;
+  padding: 1px 18px 0 15px;
+  background-color: #fff;
+}.Dviz-evir {
+  width: 80px;
+  height: 20px;
+  margin: 0 56px 27px 58px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.7;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+
